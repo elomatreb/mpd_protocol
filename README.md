@@ -1,3 +1,5 @@
+# NOTE: This is now maintained in the [`mpd_client`][mpd-client] repository!
+
 # `mpd_protocol`
 
 Implementation of the client protocol for [MPD][mpd].
